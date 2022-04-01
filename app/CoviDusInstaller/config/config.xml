@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Installer>
+    <Name>CoviDus</Name>
+    <Version>1.0.0</Version>
+    <Title>CoviDus Installer</Title>
+    <Publisher>JJP</Publisher>
+    <InstallerApplicationIcon>../CoviDusWidget/CoviDusIcon.ico</InstallerApplicationIcon>
+    <StartMenuDir>CoviDus</StartMenuDir>
+    <RunProgram>@TargetDir@/CoviDusWidget.exe</RunProgram>
+    <MaintenanceToolName>UninstallerCoviDus</MaintenanceToolName>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+    <TargetDir>@HomeDir@/JJP/CoviDus</TargetDir>
+</Installer>

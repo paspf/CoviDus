@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CoviDusWidget_de.qm</file>
+        <file>CoviDusWidget_en.qm</file>
+    </qresource>
+</RCC>
