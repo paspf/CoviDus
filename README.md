@@ -1,6 +1,9 @@
 # CoviDus
 CoviDus is a Desktop application, showing the Corona statistics of Germany. 
 
+
+Get the latest release (Live Version or Installer) [here](https://github.com/paspf/CoviDus/releases).
+
 ![Covidus Overview](/doc/CoviDus_Overview.png)
 
 Covidus supports multiple visualization features:
