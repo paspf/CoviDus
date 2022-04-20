@@ -20,4 +20,4 @@ Covidus supports multiple visualization features:
 CoviDus uses the Robert Koch-Institut API by Marlon Lückert.
 
 ## Background
-The application was developed as part of a study project by Pascal Pfeiffer, Jannis Weber and Jens Gräfe. The aim was to develop a simple, resource-friendly application that displays the current infection situation at a user-adjustable place of residence.
+The initial version of CoviDus was developed as part of a study project by Jannis Weber, Jens Gräfe and Pascal Pfeiffer. The aim was to develop a simple, resource-friendly application that displays the current infection situation at a user-adjustable place of residence.
